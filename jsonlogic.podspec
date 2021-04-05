@@ -20,6 +20,6 @@ Pod::Spec.new do |s|
   
   s.source_files = 'Sources/jsonlogic/*.swift'
   s.module_name = 'jsonlogic'
-  s.dependency 'json-enum', '~> 1.0' 
+  s.dependency 'json-enum', '~> 1.0.0' 
 
 end
